@@ -1,7 +1,4 @@
 oke nhe
-duoc thoi
-<<<<<<< HEAD
-duou
-=======
-o kia
->>>>>>> kham
+dupc thei
+member
+
