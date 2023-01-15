@@ -1,5 +1,6 @@
 oke
 ko dcko d
+<<<<<<< HEAD
 roi sao ha 
 kinh dey
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ ui
 =======
 u
 >>>>>>> kham
+=======
+khumn
+>>>>>>> master
