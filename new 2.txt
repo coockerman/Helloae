@@ -1,7 +1,3 @@
-oke nhe
-duoc thoi
-<<<<<<< HEAD
-duou
-=======
-o kia
->>>>>>> kham
+oke nhey
+duoc thoii
+
