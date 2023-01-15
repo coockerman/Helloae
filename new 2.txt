@@ -1,3 +1,7 @@
 oke nhe
 duoc thoi
+<<<<<<< HEAD
 duou
+=======
+o kia
+>>>>>>> kham

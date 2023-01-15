@@ -2,4 +2,8 @@ oke
 ko dcko d
 roi sao ha 
 kinh dey
+<<<<<<< HEAD
 ui
+=======
+u
+>>>>>>> kham
